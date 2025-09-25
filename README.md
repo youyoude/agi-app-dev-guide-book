@@ -194,6 +194,29 @@
 - 🏗️ **架构设计能力**：大数据平台、机器学习平台架构
 - 🔄 **开源项目实践**：Airflow、DataX、Seatunnel、Cube-Studio等二次开发
 
+## 💰 欢迎打赏
+
+如果这本书对您有帮助，欢迎通过以下方式支持我的创作：
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="img/微信.jpg" alt="微信收款码" width="200"/>
+        <br/>
+        <strong>微信打赏</strong>
+      </td>
+      <td align="center">
+        <img src="img/支付宝.jpg" alt="支付宝收款码" width="200"/>
+        <br/>
+        <strong>支付宝打赏</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+您的支持是我持续创作的动力！🙏
+
 
 ## ⭐ Star History
 
