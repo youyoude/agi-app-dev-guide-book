@@ -61,7 +61,7 @@
     },
     "search-pro": {
       "cutWordLib": "nodejieba",
-      "defineWord": ["AGI", "智能体", "Agent", "LLM", "大语言模型"]
+      "defineWord": ["AGI", "智能体", "Agent", "LLM", "大语言模型", "智能态势感知", "智能涌现", "AI-Agent", "上下文工程", "智能思维工程"]
     },
     "theme-comscore": {
       "showHeader": true,
@@ -74,8 +74,8 @@
     }
   },
   "variables": {
-    "version": "1.0.0",
-    "updated": "2025-09-24"
+    "version": "1.1.0",
+    "updated": "2025-09-25"
   },
   "links": {
     "sidebar": {
