@@ -191,12 +191,13 @@ cd agi-app-dev-guide-book
 ## 👨‍💻 关于作者
 
 **马云起** - 北漂十年程序员，互联网行业软件开发者
+- 🏢 现任：北京火花思维教育科技有限公司 大数据架构师
 
 - 📧 邮箱：mayunqi_agi@163.com
 - 💻 GitHub：[@youyoude](https://github.com/youyoude)
 - 🌐 个人网站（筹备中）：https://www.mayunqi.com
 - 📱 微信公众号：AGI应用
-- 🏢 现任：北京火花思维教育科技有限公司 大数据架构师
+
 
 ### 技术栈演进历程
 从汇编语言到Kubernetes，从iOS开发到大数据架构的全栈工程师，具备：
