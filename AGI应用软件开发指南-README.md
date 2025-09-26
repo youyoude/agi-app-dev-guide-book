@@ -121,6 +121,8 @@ git clone https://github.com/youyoude/agi-app-dev-guide-book.git
 # 进入项目目录
 cd agi-app-dev-guide-book
 
+# 使用Obsidian、Typora等Markdown软件阅读
+
 ```
 
 
@@ -193,6 +195,7 @@ cd agi-app-dev-guide-book
 - 📧 邮箱：mayunqi_agi@163.com
 - 💻 GitHub：[@youyoude](https://github.com/youyoude)
 - 🌐 个人网站（筹备中）：https://www.mayunqi.com
+- 📱 微信公众号：AGI应用
 - 🏢 现任：北京火花思维教育科技有限公司 大数据架构师
 
 ### 技术栈演进历程
