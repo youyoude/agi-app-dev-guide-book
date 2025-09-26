@@ -106,6 +106,23 @@
 - 🔍 **智能态势感知**：构建动态环境感知与决策系统
 
 ## 🚀 快速开始
+### 0. 📖 阅读方式
+
+#### 🌐 在线阅读（推荐）
+- **GitBook版本**：https://zhi-qi-qi-dian.gitbook.io/zhi-qi-qi-dian-docs/
+  - ✅ 最佳阅读体验，支持搜索、目录导航
+  - ⚠️ 部分地区可能存在网络访问问题
+
+#### 💻 本地阅读
+```bash
+# 克隆项目到本地
+git clone https://github.com/youyoude/agi-app-dev-guide-book.git
+
+# 进入项目目录
+cd agi-app-dev-guide-book
+
+```
+
 
 ### 1. 阅读路径导航
 
