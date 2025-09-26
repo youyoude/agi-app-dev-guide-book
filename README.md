@@ -117,7 +117,8 @@
 ```bash
 # 克隆项目到本地
 git clone https://github.com/youyoude/agi-app-dev-guide-book.git
-
+# 或者 
+git clone https://gitee.com/youyou_space/agi-app-dev-guide-book.git
 # 进入项目目录
 cd agi-app-dev-guide-book
 
