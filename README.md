@@ -109,7 +109,7 @@
 ### 0. 📖 阅读方式
 
 #### 🌐 在线阅读（推荐）
-- **GitBook版本**：https://zhi-qi-qi-dian.gitbook.io/zhi-qi-qi-dian-docs/
+- **GitBook版本**：[AGI应用软件开发指南](https://zhi-qi-qi-dian.gitbook.io/zhi-qi-qi-dian-docs/)
   - ✅ 最佳阅读体验，支持搜索、目录导航
   - ⚠️ 部分地区可能存在网络访问问题
 
@@ -191,7 +191,7 @@ cd agi-app-dev-guide-book
 
 - 📧 邮箱：mayunqi_agi@163.com
 - 💻 GitHub：[@youyoude](https://github.com/youyoude)
-- 🌐 个人网站：https://www.mayunqi.com
+- 🌐 个人网站（筹备中）：https://www.mayunqi.com
 - 🏢 现任：北京火花思维教育科技有限公司 大数据架构师
 
 ### 技术栈演进历程
