@@ -18,3 +18,4 @@ _book
 *.base
 *.obsidian
 *.canvas
+.DS_Store
