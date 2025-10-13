@@ -33,9 +33,9 @@
 - 🎯 **自主任务执行**：具备独立的任务分解、规划和执行能力
 - 📈 **适应性学习**：能够根据环境反馈调整策略并优化执行效果
 
-## 🏗️ AI应用软件分层架构
+## 🏗️ Agentic AI应用软件分层架构
 
-本书提出了完整的AI应用软件分层架构设计：
+本书提出了完整的Agentic AI应用软件分层架构设计：
 
 ### 1. 智能思考层（Intelligence Thinking Layer）
 **核心职责**：作为系统的智能决策中心，负责任务理解、推理规划和执行控制
@@ -122,7 +122,7 @@
 ### 0. 📖 阅读方式
 
 #### 🌐 在线阅读
-- **GitBook版本**：[AI应用软件开发指南](https://zhi-qi-qi-dian.gitbook.io/zhi-qi-qi-dian-docs/)
+- **GitBook版本**：[Agentic AI应用软件开发指南](https://zhi-qi-qi-dian.gitbook.io/zhi-qi-qi-dian-docs/)
   - ✅ 最佳阅读体验，支持搜索、目录导航
   - ⚠️ 部分地区可能存在网络访问问题
 
