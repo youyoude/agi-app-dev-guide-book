@@ -1,4 +1,4 @@
-# 从多智能体到Agentic AI再到AGI应用概念探索
+# Agentic AI：通向AGI应用的关键前站与智能涌现之路
 # Agentic AI战略解析：多智能体系统分化与AGI发展的必经之路
 # Agentic AI：通向AGI应用的关键前站与智能涌现之路
 
