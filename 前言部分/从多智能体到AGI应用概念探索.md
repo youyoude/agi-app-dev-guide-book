@@ -375,7 +375,7 @@ graph TB
     TR --> ENV
 ```
 
-#### AGI应用的通用智能架构（未来愿景）
+#### AGI应用的通用智能架构（未来设想）
 ```mermaid
 graph TB
     subgraph "AGI应用通用智能架构（未来设想）"
