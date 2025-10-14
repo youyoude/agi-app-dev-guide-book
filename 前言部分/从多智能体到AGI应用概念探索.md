@@ -378,7 +378,7 @@ graph TB
 #### AGI应用的通用智能架构（未来愿景）
 ```mermaid
 graph TB
-    subgraph "AGI应用通用智能架构（未来目标）"
+    subgraph "AGI应用通用智能架构（未来设想）"
         GI["🎯 通用智能层<br/>General Intelligence Layer"]
         AC["🧩 自主意识层<br/>Autonomous Consciousness Layer"]
         UL["♾️ 无限学习层<br/>Unlimited Learning Layer"]
