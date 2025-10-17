@@ -510,27 +510,7 @@ graph TB
     TR --> ENV
 ```
 
-##### 2.3.2.3 AGI应用的通用智能架构（未来设想）
-```mermaid
-graph TB
-    subgraph "AGI应用通用智能架构（未来设想）"
-        GI["🎯 通用智能层<br/>General Intelligence Layer"]
-        AC["🧩 自主意识层<br/>Autonomous Consciousness Layer"]
-        UL["♾️ 无限学习层<br/>Unlimited Learning Layer"]
-        CC["🚀 创造创新层<br/>Creative Innovation Layer"]
-        UA["🌐 通用适应层<br/>Universal Adaptation Layer"]
-    end
-    
-    GI -.->|通用控制| AC
-    GI -.->|无限扩展| UL
-    GI -.->|创造驱动| CC
-    GI -.->|全域适应| UA
-    
-    AC <--> UL
-    UL <--> CC
-    CC <--> UA
-    UA <--> AC
-```
+
 
 **关键洞察**：**智能涌现层**是Agentic AI独有的核心创新，它为AGI应用的**通用智能层**奠定了基础。这不是简单的技术升级，而是智能范式的根本性跃迁。
 
