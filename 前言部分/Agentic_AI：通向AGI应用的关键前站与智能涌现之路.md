@@ -149,26 +149,6 @@ E(系统) > Σ E(组件i) + 协作效应 + Φ(涌现成分)
 
 #### Agentic AI 五层智能核心架构
 
-```mermaid
-graph TB
-    subgraph "Agentic AI 智能涌现架构"
-        IE["智能涌现层<br/>Intelligence Emergence Layer"]
-        IT["智能思考层<br/>Intelligence Thinking Layer"]
-        KM["知识记忆层<br/>Knowledge Memory Layer"]
-        TR["工具扩展运行层<br/>Tool Extension Runtime Layer"]
-        ENV["智能环境层<br/>Intelligent Environment Layer"]
-    end
-    
-    IE -.-> IT
-    IE -.-> KM
-    IE -.-> TR
-    IE -.-> ENV
-    
-    IT --> KM
-    IT --> TR
-    TR --> ENV
-```
-
 **层级说明**：
 - **智能涌现层**：系统的核心创新，产生超越组件的智能
 - **智能思考层**：负责推理、规划和决策
