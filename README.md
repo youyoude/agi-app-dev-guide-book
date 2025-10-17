@@ -1,5 +1,8 @@
 # Agentic AI应用软件开发指南
 
+<div align="center">
+  <img src="img/书籍封面.png" alt="Agentic AI应用软件开发指南 - 书籍封面" width="400"/>
+</div>
 
 > **Agentic AI应用软件开发90%是软件工程，只有10%才是AI**
 
