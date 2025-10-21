@@ -230,6 +230,9 @@ cd agi-app-dev-guide-book
 - 💻 GitHub：[@youyoude](https://github.com/youyoude)
 - 🌐 个人网站（筹备中）：https://www.mayunqi.com
 - 📱 微信公众号：AGI应用
+- Agentic AI开发者群：
+
+![微信群二维码](img/微信群二维码.jpg)
 
 
 ### 技术栈演进历程
