@@ -200,3 +200,172 @@
 #### 6.1.4 报告生成相关
 
 * [报告生成提示词集合](第六部分_参考资料/6.1_joyagent_jdgenie_提示词库/6.1.4_报告生成相关/报告生成提示词集合.md)
+
+### 6.2 OpenHands翻译版提示词
+
+* [项目概览](第六部分_参考资料/6.2_OpenHands翻译版提示词/README.md)
+* [快速导航](第六部分_参考资料/6.2_OpenHands翻译版提示词/快速导航.md)
+* [整理报告](第六部分_参考资料/6.2_OpenHands翻译版提示词/整理报告.md)
+* [更新日志](第六部分_参考资料/6.2_OpenHands翻译版提示词/更新日志.md)
+* [项目总结](第六部分_参考资料/6.2_OpenHands翻译版提示词/项目总结.md)
+
+#### 6.2.1 Agent核心提示词
+
+* [CodeAct-Agent系统提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/CodeAct-Agent系统提示词.md)
+* [CodeAct-Agent交互规则](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/CodeAct-Agent交互规则.md)
+* [CodeAct-Agent任务管理](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/CodeAct-Agent任务管理.md)
+* [CodeAct-Agent技术哲学](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/CodeAct-Agent技术哲学.md)
+* [CodeAct-Agent示例对话](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/CodeAct-Agent示例对话.md)
+* [ReadOnly-Agent系统提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.1-Agent核心提示词/ReadOnly-Agent系统提示词.md)
+
+#### 6.2.2 Resolver提示词
+
+* [基础问题解决提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.2-Resolver提示词/基础问题解决提示词.md)
+* [成功判断提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.2-Resolver提示词/成功判断提示词.md)
+
+#### 6.2.3 集成提示词
+
+* [GitHub集成提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.3-集成提示词/GitHub集成提示词.md)
+* [GitLab集成提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.3-集成提示词/GitLab集成提示词.md)
+* [Jira集成提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.3-集成提示词/Jira集成提示词.md)
+* [其他集成提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.3-集成提示词/其他集成提示词.md)
+* [总结提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.3-集成提示词/总结提示词.md)
+
+#### 6.2.4 Microagents提示词
+
+* [代码审查Microagents](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.4-Microagents提示词/代码审查Microagents.md)
+* [开发工具Microagents](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.4-Microagents提示词/开发工具Microagents.md)
+* [版本控制Microagents](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.4-Microagents提示词/版本控制Microagents.md)
+
+#### 6.2.5 辅助提示词
+
+* [可解决性评估提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.5-辅助提示词/可解决性评估提示词.md)
+* [安全风险评估提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.5-辅助提示词/安全风险评估提示词.md)
+* [记忆生成提示词](第六部分_参考资料/6.2_OpenHands翻译版提示词/6.2.5-辅助提示词/记忆生成提示词.md)
+
+### 6.3 OpenHands原版提示词
+
+* [项目概览](第六部分_参考资料/6.3_OpenHands原版提示词/README.md)
+* [分类说明](第六部分_参考资料/6.3_OpenHands原版提示词/分类说明.md)
+* [快速导航](第六部分_参考资料/6.3_OpenHands原版提示词/快速导航.md)
+* [整理报告](第六部分_参考资料/6.3_OpenHands原版提示词/整理报告.md)
+* [文件清单](第六部分_参考资料/6.3_OpenHands原版提示词/文件清单.txt)
+
+#### 6.3.1 Agents
+
+##### CodeAct-Agent
+* [系统提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/system_prompt.j2)
+* [交互式系统提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/system_prompt_interactive.j2)
+* [长期任务系统提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/system_prompt_long_horizon.j2)
+* [技术哲学提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/system_prompt_tech_philosophy.j2)
+* [用户提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/user_prompt.j2)
+* [上下文学习示例](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/in_context_learning_example.j2)
+* [上下文学习示例后缀](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/in_context_learning_example_suffix.j2)
+* [微代理信息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/microagent_info.j2)
+* [安全风险评估](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/security_risk_assessment.j2)
+* [附加信息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/CodeAct-Agent/additional_info.j2)
+
+##### ReadOnly-Agent
+* [系统提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/system_prompt.j2)
+* [用户提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/user_prompt.j2)
+* [上下文学习示例](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/in_context_learning_example.j2)
+* [上下文学习示例后缀](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/in_context_learning_example_suffix.j2)
+* [微代理信息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/microagent_info.j2)
+* [附加信息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.1-Agents/ReadOnly-Agent/additional_info.j2)
+
+#### 6.3.2 集成提示词
+
+##### GitHub集成
+* [Issue对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitHub/issue_conversation_instructions.j2)
+* [Issue提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitHub/issue_prompt.j2)
+* [PR更新对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitHub/pr_update_conversation_instructions.j2)
+* [PR更新提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitHub/pr_update_prompt.j2)
+
+##### GitLab集成
+* [Issue对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitLab/issue_conversation_instructions.j2)
+* [Issue提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitLab/issue_prompt.j2)
+* [MR更新对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitLab/mr_update_conversation_instructions.j2)
+* [MR更新提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/GitLab/mr_update_prompt.j2)
+
+##### Bitbucket集成
+* [Issue对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Bitbucket/issue_conversation_instructions.j2)
+* [Issue提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Bitbucket/issue_prompt.j2)
+* [PR更新对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Bitbucket/pr_update_conversation_instructions.j2)
+* [PR更新提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Bitbucket/pr_update_prompt.j2)
+
+##### Jira集成
+* [Jira指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira/jira_instructions.j2)
+* [Jira新对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira/jira_new_conversation.j2)
+* [Jira现有对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira/jira_existing_conversation.j2)
+
+##### Jira-DC集成
+* [Jira-DC指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira-DC/jira_dc_instructions.j2)
+* [Jira-DC新对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira-DC/jira_dc_new_conversation.j2)
+* [Jira-DC现有对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Jira-DC/jira_dc_existing_conversation.j2)
+
+##### Linear集成
+* [Linear指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Linear/linear_instructions.j2)
+* [Linear新对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Linear/linear_new_conversation.j2)
+* [Linear现有对话](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Linear/linear_existing_conversation.j2)
+
+##### Slack集成
+* [用户消息对话指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Slack/user_message_conversation_instructions.j2)
+
+##### 建议任务
+* [失败检查提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Suggested-Tasks/failing_checks_prompt.j2)
+* [合并冲突提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Suggested-Tasks/merge_conflict_prompt.j2)
+* [开放Issue提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Suggested-Tasks/open_issue_prompt.j2)
+* [未解决评论提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/Suggested-Tasks/unresolved_comments_prompt.j2)
+
+##### 其他集成
+* [总结提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.2-Integrations/summary_prompt.j2)
+
+#### 6.3.3 Resolver提示词
+
+##### 成功判断
+* [Issue成功检查](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.3-Resolver/Guess-Success/issue-success-check.jinja)
+* [PR反馈检查](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.3-Resolver/Guess-Success/pr-feedback-check.jinja)
+* [PR审查检查](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.3-Resolver/Guess-Success/pr-review-check.jinja)
+* [PR线程检查](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.3-Resolver/Guess-Success/pr-thread-check.jinja)
+
+#### 6.3.4 基准测试
+
+##### NoCode-Bench
+* [NoCode基准测试](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.4-Benchmarks/NoCode-Bench/nc.j2)
+
+#### 6.3.5 Microagents
+
+* [添加代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/add_agent.md)
+* [添加仓库指令](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/add_repo_inst.md)
+* [处理PR评论](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/address_pr_comments.md)
+* [代理记忆](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/agent_memory.md)
+* [Bitbucket微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/bitbucket.md)
+* [代码审查](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/code-review.md)
+* [代码审查烘焙版](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/codereview-roasted.md)
+* [默认工具](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/default-tools.md)
+* [Docker微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/docker.md)
+* [修复测试](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/fix_test.md)
+* [修复Python行过长](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/fix-py-line-too-long.md)
+* [Flarglebargle](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/flarglebargle.md)
+* [GitHub微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/github.md)
+* [GitLab微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/gitlab.md)
+* [Kubernetes微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/kubernetes.md)
+* [NPM微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/npm.md)
+* [入职指导](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/onboarding.md)
+* [PDFLaTeX微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/pdflatex.md)
+* [Microagents概览](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/README.md)
+* [安全微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/security.md)
+* [SSH微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/ssh.md)
+* [Swift Linux微代理](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/swift-linux.md)
+* [更新PR描述](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/update_pr_description.md)
+* [更新测试](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.5-Microagents/update_test.md)
+
+#### 6.3.6 企业版
+
+* [总结系统消息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.6-Enterprise/summary_system_message.j2)
+* [总结用户消息](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.6-Enterprise/summary_user_message.j2)
+
+#### 6.3.7 其他
+
+* [Dockerfile模板](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.7-Others/Dockerfile.j2)
+* [生成记忆提示词](第六部分_参考资料/6.3_OpenHands原版提示词/6.3.7-Others/generate_remember_prompt.j2)
