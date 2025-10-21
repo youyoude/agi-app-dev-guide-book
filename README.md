@@ -230,6 +230,10 @@ cd agi-app-dev-guide-book
 - 💻 GitHub：[@youyoude](https://github.com/youyoude)
 - 🌐 个人网站（筹备中）：https://www.mayunqi.com
 - 📱 微信公众号：AGI应用
+
+<img src="img/公众号二维码.jpg" alt="AGI应用公众号二维码" width="300">
+
+
 - Agentic AI开发者群：
 
 <img src="img/微信群二维码.jpg" alt="微信群二维码" width="300">
