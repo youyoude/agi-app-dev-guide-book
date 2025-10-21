@@ -232,7 +232,7 @@ cd agi-app-dev-guide-book
 - 📱 微信公众号：AGI应用
 - Agentic AI开发者群：
 
-![微信群二维码](img/微信群二维码.jpg)
+<img src="img/微信群二维码.jpg" alt="微信群二维码" width="200">
 
 
 ### 技术栈演进历程
