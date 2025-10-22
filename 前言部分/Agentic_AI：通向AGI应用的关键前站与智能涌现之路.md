@@ -1040,7 +1040,7 @@ Agentic AI为各行各业提供了前所未有的智能化机遇：
 
 ### 🔗 获取完整内容
 
-📖 **开源地址**：https://github.com/youyoude/agi-app-dev-guide-book.git
+📖 **开源地址**：https://github.com/youyoude/agi-app-dev-guide-book
 
 📧 **技术交流**：欢迎通过GitHub Issues讨论技术问题
 
