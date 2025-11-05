@@ -14,12 +14,12 @@
 * [软件工程师的新机遇](前言部分/软件工程师的新机遇.md)
 * [如何使用本书](前言部分/如何使用本书.md)
 
-## 第零部分：核心概念预览
+## 第零部分：Agentic AI 核心概念与开发理念
 
-* [0.0 从AI Agent到Agentic AI](第零部分_核心概念预览/0.0从AI_Agent到Agentic_AI.md)
-* [0.1 Agentic AI应用核心概念](第零部分_核心概念预览/0.1_Agentic_AI应用核心概念.md)
-* [0.2 Agentic AI应用分层架构](第零部分_核心概念预览/0.2_Agentic_AI应用分层架构.md)
-* [0.3 核心开发理念](第零部分_核心概念预览/0.3_核心开发理念.md)
+* [0.0 从AI Agent到Agentic AI](第零部分_Agentic_AI_核心概念与开发理念/0.0从AI_Agent到Agentic_AI.md)
+* [0.1 Agentic AI应用核心概念](第零部分_Agentic_AI_核心概念与开发理念/0.1_Agentic_AI应用核心概念.md)
+* [0.2 Agentic AI应用分层架构](第零部分_Agentic_AI_核心概念与开发理念/0.2_Agentic_AI应用分层架构.md)
+* [0.3 核心开发理念](第零部分_Agentic_AI_核心概念与开发理念/0.3_核心开发理念.md)
 
 ## 第一部分：背景与问题
 
